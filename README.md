@@ -5,7 +5,7 @@
 This project involved the end-to-end development and deployment of a cloud-based threat intelligence platform utilizing a deliberately exposed Azure Virtual Machine as a honeypot. The primary objective was to attract, monitor, and analyze live cyber attacks, ingesting the resulting security logs into a Microsoft Sentinel SIEM (Security Information and Event Management) tool. This setup provided invaluable hands-on experience in cloud infrastructure deployment, sophisticated log management, real-time threat analysis using Kusto Query Language (KQL), and advanced data visualization for proactive security posture enhancement.
 <br />
 <br />
-Project Objectives:
+<h2>Project Objectives:</h2>
 
 - <b2> Establish a Controlled Honeypot: Deploy an Azure Virtual Machine configured to be visible and attractive to network-based attacks. </b2>
 - <b2> Implement Robust Log Ingestion: Configure seamless collection of security events from the honeypot into a centralized log repository. </b2>
